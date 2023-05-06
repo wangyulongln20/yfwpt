@@ -14,7 +14,7 @@
         <commons-cli-version>1.2</commons-cli-version>
         <nutz-version>1.r.68.v20190731</nutz-version>
         <slf4j.version>1.7.25</slf4j.version>
-        <logback.version>1.2.3</logback.version>
+        <logback.version>1.2.9</logback.version>
     </properties>
     <url>https://wizzer.cn</url>
     <description>java web development framework, base on nutz</description>
